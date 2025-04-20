@@ -9,4 +9,5 @@ for i,(k1,v1) in enumerate(grocery_price.items()):
 
 print(sum(lst))            
 
-
+#OUTPUT:
+# 250
