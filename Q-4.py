@@ -19,4 +19,7 @@ for i in range(len(character)):
     new_dict_freq.update(dict_freq)
 
 print(new_dict_freq)
-    
+
+#OUTPUT:
+# Enter a string : HELLO READERS !
+# {'A': 1, 'D': 1, 'E': 3, 'H': 1, 'L': 2, 'O': 1, 'R': 2, 'S': 1} 
