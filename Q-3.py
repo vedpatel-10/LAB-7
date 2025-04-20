@@ -42,3 +42,13 @@ print("Minimum salary of department 2 is :", min(lst_d2_salary))
 print("Maximum salary of department 3 is :" , max(lst_d3_salary))
 print("Minimum salary of department 3 is :", min(lst_d3_salary))
 
+#OUTPUT:
+# [('rakesh', 1), ('hardik', 1), ('om', 1), ('sahil', 2), ('swayam', 2), ('ashish', 3), ('tirth', 3)]
+# [('tirth', 3), ('hardik', 12), ('swayam', 29), ('rakesh', 32), ('ashish', 53), ('sahil', 56), ('om', 76)]
+# [('rakesh', 15000), ('hardik', 18000), ('om', 18500), ('swayam', 22000), ('ashish', 23000), ('sahil', 25000), ('tirth', 30000)]
+# Maximum salary of department 1 is : 18500
+# Minimum salary of department 1 is : 15000
+# Maximum salary of department 2 is : 25000
+# Minimum salary of department 2 is : 22000
+# Maximum salary of department 3 is : 30000
+# Minimum salary of department 3 is : 23000 
